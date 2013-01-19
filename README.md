@@ -7,6 +7,7 @@ PPAckager is the gap to simplicity Ubuntu needed but could not do alone. The PPA
 * Easy one-click installs for hundreds of applications, including Spotify, CeltX, PlayOnLinux, Drawers, Everpad, Oracle Java, and so much more!
 * Decent (and one day, hopefully, nice) UI!
 * The "Bare Necessities" Package, a one-click install for any fresh install of Ubuntu, to have your machine up and running with all the basics to get on to enjoying your machine!
+* Compatible with Ubuntu Linux (and spin-offs).
 * My undying love and devotion!
 
 ## Download
