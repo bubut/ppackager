@@ -17,7 +17,7 @@ Will be put here once there is something done! The package we put here will work
 ## Got A Problem There, Buddy?
 
 If you've come across a problem, submit a bug report to the
-[issue tracker](https://github.com/arthurnova/mc-haz/issues). We'll try to get to it as fast we can!
+[issue tracker](https://github.com/arthurnova/ppackager/issues). We'll try to get to it as fast we can!
 
 ## License
 
