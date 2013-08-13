@@ -21,7 +21,7 @@ never-ending process, and will take time to reach a level that will give
 almost-full satisfaction, but with the communities' support, reminding up when
 certain applications have updated or when a certain application needs to be
 added, it can be done. Hopefully this becomes one of the many tools that helps
-bring Linux to being the dominant desktop OS!.
+bring Linux to being the dominant desktop OS!
 
 ## Features
 
